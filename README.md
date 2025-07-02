@@ -6,7 +6,7 @@
 - Victor Figueroa  
 
 **Módulo 5: Arquitectura y escalabilidad**  
-**Clase 3: Orquestación de contenedores con Kubernetes**  
+**Clase 4: Orquestación de contenedores con Kubernetes**  
 **Ejercicio Guiado: Despliegue de una Aplicación con Kubernetes**
 
 ---
