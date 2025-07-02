@@ -1,0 +1,9 @@
+# Ignorar archivos temporales de sistemas operativos
+.DS_Store
+Thumbs.db
+
+# Ignorar archivos de log
+*.log
+
+# Ignorar archivos de configuración locales
+*.env
